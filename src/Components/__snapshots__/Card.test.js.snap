@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card.js tests snapshot test with props 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    First card
+  </h3>
+  <p>
+    lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`Card.js tests snapshot test without props 1`] = `
+<div
+  className="Card"
+>
+  <button
+    type="button"
+  >
+    delete
+  </button>
+  <h3>
+    
+  </h3>
+  <p>
+    
+  </p>
+</div>
+`;
